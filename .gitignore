@@ -126,6 +126,7 @@ InitTestScene*.unity*
 
 # Ignore everything in Assets
 /Assets/*
+/Packages/*
 
 # But include your own project folder
 !/Assets/_WreckHavoc/
